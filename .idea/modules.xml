@@ -6,6 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/day-02-base-2/day-02-base-2.iml" filepath="$PROJECT_DIR$/day-02-base-2/day-02-base-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-04-array/day-04-array.iml" filepath="$PROJECT_DIR$/day-04-array/day-04-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-05-oop/day-05-oop.iml" filepath="$PROJECT_DIR$/day-05-oop/day-05-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-07-oop/day-07-oop.iml" filepath="$PROJECT_DIR$/day-07-oop/day-07-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-08-oop/day-08-oop.iml" filepath="$PROJECT_DIR$/day-08-oop/day-08-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-09-exception/day-09-exception.iml" filepath="$PROJECT_DIR$/day-09-exception/day-09-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-09-generic/day-09-generic.iml" filepath="$PROJECT_DIR$/day-09-generic/day-09-generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-10-collection/day-10-collection.iml" filepath="$PROJECT_DIR$/day-10-collection/day-10-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01-base-language/day01-base-language.iml" filepath="$PROJECT_DIR$/day01-base-language/day01-base-language.iml" />
     </modules>
   </component>
