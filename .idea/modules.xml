@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/day-09-exception/day-09-exception.iml" filepath="$PROJECT_DIR$/day-09-exception/day-09-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-09-generic/day-09-generic.iml" filepath="$PROJECT_DIR$/day-09-generic/day-09-generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-10-collection/day-10-collection.iml" filepath="$PROJECT_DIR$/day-10-collection/day-10-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-11-File/day-11-File.iml" filepath="$PROJECT_DIR$/day-11-File/day-11-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-12-thread/day-12-thread.iml" filepath="$PROJECT_DIR$/day-12-thread/day-12-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01-base-language/day01-base-language.iml" filepath="$PROJECT_DIR$/day01-base-language/day01-base-language.iml" />
     </modules>
   </component>
